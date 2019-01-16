@@ -1,2 +1,2 @@
 # whitePaper
-The Llama Language Specification
+The llama Language Specification
