@@ -1,2 +1,2 @@
-# whitePaper
-The llama Language Specification
+# llama 语言白皮书
+llama 语言规范
